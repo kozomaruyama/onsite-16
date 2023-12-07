@@ -1,0 +1,18 @@
+<table>
+  <thead>
+    <tr>
+      <th>aaa</th>
+      <th>bbb</th>
+      <th>ccc</th>
+      <th>ddd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>aaaa</td>
+      <td>bbb</td>
+      <td>ccc</td>
+      <td>ddd</td>
+    </tr>
+  </tbody>
+</table>

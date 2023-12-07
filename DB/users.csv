@@ -1,0 +1,5 @@
+"id","name","email","email_verified_at","password","person_id","role","status","remember_token","created_at","updated_at"
+"1","admin","admin@dummy",NULL,"$2y$10$22QOcdGVrQnW0Umo0Nv5iOBohPcF6mMlyJtmUkwPYxxpi10C46oVK","1","1","1",NULL,"2022-12-19 01:10:18","2023-01-24 11:06:36"
+"142","office","office@dummy",NULL,"$2y$10$PlbOpDU9hhuwclaFJXZr5.4LCRhNT3RV27pRYruYnORkmAjAAIlEq","28","5","1",NULL,"2022-12-20 01:44:52","2022-12-25 09:15:22"
+"143","onsite","onsite@dummy",NULL,"$2y$10$5LL6R8XFsRRY2yFVdBoLx.XmWx2Hj0BSe73aKgypGpj6GFcHe6HCK","30","7","0",NULL,"2022-12-20 01:45:13","2022-12-20 13:20:30"
+"147","appadmin","appadmin@dummy",NULL,"$2y$10$GopQnN9V1Lw9DHeKlLE/X.bUu/pkmENc/UEqhrp5yg6MSK0VTNILO","2","2","0",NULL,"2022-12-20 05:38:29","2023-01-11 12:06:11"
